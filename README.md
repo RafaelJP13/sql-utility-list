@@ -91,19 +91,6 @@ Many of the examples are intentionally straightforward so that newcomers can und
 
 ---
 
-## 📂 Repository Structure
-
-```
-.
-├── SQL examples
-├── Database creation scripts
-├── Sample inserts
-├── Stored procedures
-└── SQL command reference
-```
-
----
-
 ## 🚀 Improvements
 
 If I were rewriting this project today, I would include:
